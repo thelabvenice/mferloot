@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10021,
   "WEI_COST": 16900000000000000,
   "DISPLAY_COST": 0.0169,
-  "GAS_LIMIT": 175000,
+  "GAS_LIMIT": 125000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mfer-starter-pack",
   "SHOW_BACKGROUND":false
